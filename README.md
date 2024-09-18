@@ -48,10 +48,4 @@ A feature-rich messenger application built with React and Node.js, including vid
 
 A replica of Stack Overflow's core functionalities using Spring Boot, React, and MongoDB.
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
 Feel free to reach out if you'd like to collaborate on a project or just chat about technology!
