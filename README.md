@@ -27,10 +27,10 @@
 <div align="center">
   <h3>🏆 Achievements & Experience</h3>
   
-  - 🌟 **Devexperts** Java Web Developer Intern (610 hours)
-  - 💼 **EuroLight** Java Developer Intern (6 months)
-  - 🎮 2nd Place in **Game Jam Georgia**
-  - 🎓 Computer Science at **Kutaisi International University**
+    🌟 **Devexperts** Java Web Developer Intern (610 hours)
+    💼 **EuroLight** Java Developer Intern (6 months)
+    🎮 2nd Place in **Game Jam Georgia**
+    🎓 Computer Science at **Kutaisi International University**
 </div>
 
 <div align="center">
