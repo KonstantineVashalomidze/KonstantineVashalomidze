@@ -36,23 +36,23 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KonstantineVashalomidze&theme=tokyonight" alt="GitHub Streak Stats"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantineVashalomidze&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
   <h3>🔥 Featured Projects</h3>
   
-  [![Financial Data App](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
-  [![Enhanced Messenger](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
+  [![Financial Data App](https://github-readme-stats.vercel.app/api/pin/?username=KonstantineVashalomidze&repo=financialInstrumentsPlatfrom&theme=tokyonight)](https://github.com/KonstantineVashalomidze/financialInstrumentsPlatfrom)
+  [![Enhanced Messenger](https://github-readme-stats.vercel.app/api/pin/?username=KonstantineVashalomidze&repo=capstoneProject&theme=tokyonight)](https://github.com/KonstantineVashalomidze/capstoneProject)
 </div>
 
 <div align="center">
   <h3>📫 Connect with Me</h3>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantine-vashalomidze-b3aa381ba/)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KonstantineVashalomidze)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vashalomidzekonstantine@gmail.com)
   [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:konstantine.vashalomidze@outlook.com)
 </div>
