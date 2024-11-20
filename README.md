@@ -58,6 +58,8 @@
   [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:konstantine.vashalomidze@outlook.com)
 </div>
 
-<div align="center">
-  <img src="https://github.com/KonstantineVashalomidze/KonstantineVashalomidze/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
