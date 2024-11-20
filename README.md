@@ -26,11 +26,12 @@
 
 <div align="center">
   <h3>🏆 Achievements & Experience</h3>
-  
-    🌟 **Devexperts** Java Web Developer Intern (610 hours)
-    💼 **EuroLight** Java Developer Intern (6 months)
-    🎮 2nd Place in **Game Jam Georgia**
-    🎓 Computer Science at **Kutaisi International University**
+  <p>
+    🌟 <strong>Devexperts</strong> Java Web Developer Intern (610 hours)<br>
+    💼 <strong>EuroLight</strong> Java Developer Intern (6 months)<br>
+    🎮 2nd Place in <strong>Game Jam Georgia</strong><br>
+    🎓 Computer Science at <strong>Kutaisi International University</strong>
+  </p>
 </div>
 
 <div align="center">
@@ -58,5 +59,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
