@@ -1,51 +1,62 @@
-# Konstantine Vashalomidze
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=435&lines=Konstantine+Vashalomidze" alt="Typing SVG" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kosta-vashalomidze-b3aa381ba/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KonstantineVashalomidze)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vashalomidzekonstantine@gmail.com)
+<div align="center">
+  <h3>🌟 About Me</h3>
+  <p>
+    Senior Computer Science student at KIU with a passion for creating scalable applications and solving complex problems. Experienced in full-stack development with a focus on Java and React ecosystems.
+  </p>
+</div>
 
-## 👨‍💻 About Me
+<div align="center">
+  <h3>🚀 Tech Stack</h3>
+  
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Database%20Experience&align=center&lineCount=1&theme=github_dark&line1=mongodb,MongoDB,47A248;neo4j,Neo4j,4581C3;postgresql,PostgreSQL,4169E1;" alt="Tech Stack" />
+</div>
 
-I'm a highly motivated Computer Science student with a strong passion for software engineering. Currently in my senior year at Kutaisi International University, I'm seeking opportunities to gain valuable working experience and grow as a developer. My academic journey and internships have equipped me with strong problem-solving skills and a solid foundation in various programming languages and technologies.
+<div align="center">
+  <h3>🏆 Achievements & Experience</h3>
+  
+  - 🌟 **Devexperts** Java Web Developer Intern (610 hours)
+  - 💼 **EuroLight** Java Developer Intern (6 months)
+  - 🎮 2nd Place in **Game Jam Georgia**
+  - 🎓 Computer Science at **Kutaisi International University**
+</div>
 
-- 🔭 I'm currently working on enhancing my skills in Java, Spring Boot, and React
-- 🌱 I'm always learning and exploring new technologies
-- 👯 I'm looking to collaborate on innovative software projects
-- 💬 Ask me about Java, Spring Framework, or full-stack development
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak Stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
-## 🏆 Achievements
+<div align="center">
+  <h3>🔥 Featured Projects</h3>
+  
+  [![Financial Data App](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
+  [![Enhanced Messenger](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)
+</div>
 
-- 🥈 2nd place in 'Game Jam Georgia' for developing "Arnold" - a 2D platformer game
-- 🎓 Devexperts Java Web Developer Certification
-- 🚗 Participated in the Duckietown self-driving cars course
+<div align="center">
+  <h3>📫 Connect with Me</h3>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vashalomidzekonstantine@gmail.com)
+  [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:konstantine.vashalomidze@outlook.com)
+</div>
 
-## 🛠️ Skills
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-## 🚀 Projects
-
-### Financial Data Application
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KonstantineVashalomidze/financialInstrumentsPlatfrom)
-
-A scalable, real-time financial data application using Spring Boot and React, featuring WebSocket communication and JWT authentication.
-
-### Enhanced Messenger Application (Thesis Project)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KonstantineVashalomidze/capstoneProject)
-
-A feature-rich messenger application built with React and Node.js, including video call functionality and advanced software designs.
-
-### Stack Overflow-like Application
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KonstantineVashalomidze/OnlineForum)
-
-A replica of Stack Overflow's core functionalities using Spring Boot, React, and MongoDB.
-
-Feel free to reach out if you'd like to collaborate on a project or just chat about technology!
+<div align="center">
+  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
