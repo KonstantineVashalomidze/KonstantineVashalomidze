@@ -44,9 +44,7 @@
 
 <div align="center">
   <h3>🔥 Featured Projects</h3>
-  
-  [![Financial Data App](https://github-readme-stats.vercel.app/api/pin/?username=KonstantineVashalomidze&repo=financialInstrumentsPlatfrom&theme=tokyonight)](https://github.com/KonstantineVashalomidze/financialInstrumentsPlatfrom)
-  [![Enhanced Messenger](https://github-readme-stats.vercel.app/api/pin/?username=KonstantineVashalomidze&repo=capstoneProject&theme=tokyonight)](https://github.com/KonstantineVashalomidze/capstoneProject)
+  [![Virtual Arena Platform](https://github.com/virtual-arena-platform&repo=financialInstrumentsPlatfrom&theme=tokyonight)]
 </div>
 
 <div align="center">
