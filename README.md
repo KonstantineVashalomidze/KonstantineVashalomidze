@@ -44,7 +44,7 @@
 
 <div align="center">
   <h3>🔥 Featured Projects</h3>
-    [![Financial Data App](https://github-readme-stats.vercel.app/api/pin/?username=KonstantineVashalomidze&repo=financialInstrumentsPlatfrom&theme=tokyonight)](https://github.com/KonstantineVashalomidze/financialInstrumentsPlatfrom)
+    [![Virtual Arena Frontend](https://github-readme-stats.vercel.app/api/pin/?username=KonstantineVashalomidze&repo=virtual-arena-frontend&theme=tokyonight)](https://github.com/KonstantineVashalomidze/virtual-arena-frontend)
 </div>
 
 <div align="center">
