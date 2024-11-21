@@ -42,15 +42,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantineVashalomidze&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-### [Virtual Arena Frontend](https://github.com/virtual-arena-platform/virtual-arena-frontend)
-- **Technology:** JavaScript, React
-- **Description:** Frontend part of the virtual arena web application - a blog-like app
-- **Last Updated:** November 21, 2024
-
-### [Virtual Arena Backend](https://github.com/virtual-arena-platform/virtual-arena-backend)
-- **Technology:** Java
-- **Description:** Backend part of the virtual arena web application
-- **Last Updated:** November 21, 2024
+<div align="center">
+  <h3>🔥 Featured Projects</h3>
+  
+  [![Virtual Arena Frontend](https://github-readme-stats.vercel.app/api/pin/?username=virtual-arena-platform&repo=virtual-arena-frontend&theme=tokyonight)](https://github.com/virtual-arena-platform/virtual-arena-frontend)
+  
+  [![Virtual Arena Backend](https://github-readme-stats.vercel.app/api/pin/?username=virtual-arena-platform&repo=virtual-arena-backend&theme=tokyonight)](https://github.com/virtual-arena-platform/virtual-arena-backend)
+</div>
 
 <div align="center">
   <h3>📫 Connect with Me</h3>
