@@ -44,7 +44,7 @@
 
 <div align="center">
   <h3>🔥 Featured Projects</h3>
-  [![Virtual Arena Platform](https://github.com/virtual-arena-platform&repo=financialInstrumentsPlatfrom&theme=tokyonight)]
+  [![Virtual Arena Platform][(https://github.com/virtual-arena-platform/virtual-arena-frontend&theme=tokyonight)]
 </div>
 
 <div align="center">
