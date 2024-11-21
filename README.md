@@ -44,7 +44,7 @@
 
 <div align="center">
   <h3>🔥 Featured Projects</h3>
-    [![Virtual Arena Frontend](https://github-readme-stats.vercel.app/api/pin/?username=KonstantineVashalomidze&repo=virtual-arena-frontend&theme=tokyonight)](https://github.com/KonstantineVashalomidze/virtual-arena-frontend)
+  [![Virtual Arena Frontend](https://img.shields.io/github/stars/virtual-arena-platform/virtual-arena-frontend?style=social)](https://github.com/virtual-arena-platform/virtual-arena-frontend)
 </div>
 
 <div align="center">
