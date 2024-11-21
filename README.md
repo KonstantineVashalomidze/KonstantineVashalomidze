@@ -44,7 +44,9 @@
 
 <div align="center">
   <h3>🔥 Featured Projects</h3>
-  [![Virtual Arena Frontend](https://img.shields.io/github/stars/virtual-arena-platform/virtual-arena-frontend?style=social)](https://github.com/virtual-arena-platform/virtual-arena-frontend)
+[![Virtual Arena Frontend](https://img.shields.io/github/stars/virtual-arena-platform/virtual-arena-frontend?style=social)](https://github.com/virtual-arena-platform/virtual-arena-frontend)
+[![Virtual Arena Backend](https://img.shields.io/github/stars/virtual-arena-platform/virtual-arena-backend?style=social)](https://github.com/virtual-arena-platform/virtual-arena-backend)
+
 </div>
 
 <div align="center">
