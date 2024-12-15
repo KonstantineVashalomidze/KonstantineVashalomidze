@@ -22,4 +22,4 @@ jobs:
         pip install -r requirements.txt
     
     - name: Run Ping Script
-      run: python ping_script.pyv
+      run: python ping_script.py
