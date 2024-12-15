@@ -7,7 +7,9 @@ def ping_endpoints():
     endpoints = [
         "https://financial-instruments-platform-backend.onrender.com/swagger-ui/index.html",  
         "https://mock-data-generation-service.onrender.com/swagger-ui/index.html",
-        "https://financial-instruments-platform-frontend.onrender.com/dashboard"
+        "https://financial-instruments-platform-frontend.onrender.com/dashboard",
+        "https://virtual-arena-frontend.onrender.com",
+        "https://virtual-arena-backend.onrender.com",
     ]
     
     for url in endpoints:
