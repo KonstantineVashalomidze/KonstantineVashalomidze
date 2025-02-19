@@ -7,7 +7,7 @@
 <div align="center">
   <h3>🌟 About Me</h3>
   <p>
-    Senior Computer Science student at KIU with a passion for creating scalable applications and solving complex problems. Experienced in full-stack development with a focus on Java and React ecosystems.
+    Senior Computer Science student at KIU with a passion for creating scalable applications and solving complex problems. Experienced in full-stack development with a focus on Java and React ecosystems. More about me <a href="https://konstantinevashalomidze.github.io/#/">here<a>.
   </p>
 </div>
 
